@@ -2,6 +2,8 @@
 
 > Backend for collecting, processing and forwarding alerts
 
+**This repository is now part of https://github.com/alarmdisplay/hub**
+
 ## About
 
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
